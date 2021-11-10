@@ -22,10 +22,13 @@ Router_Flutter
 i'm a Front-end Devloper, Passionate on Learning and Engageing with new projects
 
 my projects in Web_Dev(/)
+<br>
 HairSnap
+<br>
 Filegram
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![Satya Pavan Vanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-me-satya&show_icons=true&theme=radical)
+
 
 📫 How to reach me:
 Medium: https://satyapavanvanka.medium.com/
