@@ -24,6 +24,9 @@ i'm a Front-end Devloper, Passionate on Learning and Engageing with new projects
 my projects in Web_Dev(/)
 HairSnap
 Filegram
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+
 📫 How to reach me:
 Medium: https://satyapavanvanka.medium.com/
 Instagram: https://www.instagram.com/echoo_man/
