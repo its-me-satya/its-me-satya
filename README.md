@@ -10,8 +10,28 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 - 🌱 I’m currently learning Flutter, Digital Marketing 
 - 📫 How to reach me: satyapavanvanka@gmail.com 
 
-<a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+ ### Streaming Projects ✨
+ <p>
+  <a href="https://hairsnap.pages.dev"><img width="250" align='left' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame%201.png"></img></a>
+  
+</p>
+ 
+### HairSnap
 
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.
+
+ --- 
+
+### Alley Bot
+
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="250" align='right' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/ally.png"></a>
+</p>
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+
+ --- 
+<br>
 <a href="https://instagram.com/alphaagram">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
 </a>
@@ -27,16 +47,7 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 
 
 <br/>
-  
-<p align=center><a href="https://medium.com/satyapavanvanka">
-  <img align="left" alt="Abhishek's Discord" width="220px" src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame%201.svg" />
-</a><a href="https://www.linkedin.com/in/satya-pavan-vanka-a86657170/">
-  <img align="left" alt="Abhishek's Discord" width="220px" src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/maskin.png" />
-</a></p>
-<p><a href="https://dribbble.com/satyapavanvanka">
-  <img align="left" alt="Abhishek's Discord" width="220px" src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame%201.png" />
-</a></p>
-                                                                                                                                       <br>
+                                                                          <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=its-me-satya)](https://github.com/ryo-ma/github-profile-trophy)
 
