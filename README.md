@@ -9,7 +9,7 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 - 🔭 I’m currently working on Remote Jobs 
 - 🌱 I’m currently learning Flutter, Digital Marketing 
 - 📫 How to reach me: satyapavanvanka@gmail.com 
-
+<a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 <a href="https://instagram.com/alphaagram">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
@@ -24,10 +24,20 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
   <img align="left" alt="satya's | Dribbble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=its-me-satya.its-me-satya)
 
 <br />
-
+  <img align="left" alt="Abhishek's Discord" width="220px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
+<a href="https://medium.com/satyapavanvanka">
+  <img align="left" alt="Abhishek Naidu | Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />
+</a>
+<a href="https://www.linkedin.com/in/satya-pavan-vanka-a86657170/">
+  <img align="left" alt="Satya's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://dribbble.com/satyapavanvanka">
+  <img align="left" alt="satya's | Dribbble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
+</a>
+                                                                                                                                       <br>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=its-me-satya)](https://github.com/ryo-ma/github-profile-trophy)
@@ -41,3 +51,5 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=its-me-satya)  
 
 ![Profile views](https://gpvc.arturio.dev/its-me-satya)  
+
+<script src="https://gist.github.com/tterb/1e12ddb9af04931e8e5ba634778b283c.js"></script>
