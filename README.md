@@ -12,7 +12,7 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 
  ### Streaming Projects ✨
  <p>
-  <a href="https://hairsnap.pages.dev"><img width="250" align='left' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame%201.png"></img></a>
+  <a href="https://hairsnap.pages.dev"><img width="300" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame%201.png"></img></a>
   
 </p>
  
@@ -22,11 +22,34 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
  --- 
 
-### Alley Bot
+
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="250" align='right' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/ally.png"></a>
+  <a href="https://alleybott.herokuapp.com"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/ally.png"></a>
 </p>
+
+### Alley Bot
+
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+
+ --- 
+ <p>
+  <a href="https://maskin.pages.dev"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/maskin.png"></a>
+</p>
+
+### Maskin
+
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+
+ --- 
+ <p>
+  <a href="https://notemini.netlify.app"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame 4.png"></a>
+</p>
+
+### Notemini
+
 I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
 
 
