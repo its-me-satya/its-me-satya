@@ -15,19 +15,19 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
 </a>
 <a href="https://medium.com/satyapavanvanka">
-  <img align="left" alt="Abhishek Naidu | Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />
+  <img align="left" alt="Satya's | Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />
 </a>
 <a href="https://www.linkedin.com/in/satya-pavan-vanka-a86657170/">
   <img align="left" alt="Satya's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://dribbble.com/satyapavanvanka">
-  <img align="left" alt="satya's | Dribbble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
+  <img align="left" alt="Satya's | Dribbble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=its-me-satya.its-me-satya)
 
 <br />
-  <img align="left" alt="Abhishek's Discord" width="220px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
+  <img align="left" alt="Abhishek's Discord" width="220px" src="./Frame1.png" />
 <a href="https://medium.com/satyapavanvanka">
   <img align="left" alt="Abhishek Naidu | Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />
 </a>
