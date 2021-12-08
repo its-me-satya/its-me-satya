@@ -56,7 +56,7 @@ Hair Snap is the best place to check out your favourite hairstyle and easy to ma
 
 ### Alley Bot
 
-A Chatbot is Useful in this COVID Pandemic. For purchasing medicines or getting prescriptions for a minor medication, hospitals take more charges from the people. So we made a Chatbot called (ALLY) Using some Machine learning methods' with Python Programming Language. People can get free prescription here. we'll Update the Database with Questionaries' and Answerable Medications every time. so it'll answer automatically when the user asks any question ([discover😃](https://alleybot.herokuapp.com)).
+A Chatbot is Useful in this COVID Pandemic. For purchasing medicines or getting prescriptions for a minor medication, hospitals take more charges from the people. So we made a Chatbot called (ALLY) Using some Machine learning methods' with Python Programming Language. People can get free prescription here. we'll Update the Database with Questionaries' and Answerable Medications every time. so it'll answer automatically when the user asks any question ([discover😃](https://alleybott.herokuapp.com)).
 
  
  <p><img width="220" align='right' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/f5016f0348a14c18157b940130625bff6d26681d/maskin.svg">
