@@ -1,8 +1,16 @@
-Holaa 👋
-This is Satya, i'm a Front-End Enthusiast ⚡ ,
+### Hi there 👋,  
+####  This is Satya, I'm a Front-End Enthusiast ⚡ ,
+![ This is Satya, I'm a Front-End Enthusiast ⚡ ,](https://media-exp1.licdn.com/dms/image/C5616AQHyrBtnaqTTww/profile-displaybackgroundimage-shrink_200_800/0/1638971124732?e=1644451200&v=beta&t=TfytqMP-bNipaGljHPwmeUmyA1P81hlYkqlm-hAuDEI)
+
 I love to make Designs to Working Interfaces. I do create Micro-animations using AfterEffects and 3d models in blender ♥
 
-#web_dev #Flutter #Photoshop # illustration #After_effects #Premier_Pro #Figma #blender
+Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop, Illustrator and Tools: Figma
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 I never take stress to loop things in life , i always thinks different that make me unique!!
 
@@ -32,5 +40,6 @@ Filegram
 
 📫 How to reach me:
 Medium: https://satyapavanvanka.medium.com/
-Instagram: https://www.instagram.com/echoo_man/
+Instagram: https://www.instagram.com/alphaagram/
+Portfolio: https://znap.link/satyapavanvanka
 Github: https://github.com/its-me-satya
