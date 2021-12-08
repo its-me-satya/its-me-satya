@@ -1,8 +1,11 @@
-![](https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/top.gif)
+![](https://github.com/its-me-satya/its-me-satya/blob/main/top.gif?raw=true)
 
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ####  This is Satya Pavan Vanka, I'm a Front-End Enthusiast ⚡ ,
 ![ This is Satya, I'm a Front-End Enthusiast ⚡ ,]
+
+![Profile views](https://gpvc.arturio.dev/its-me-satya)  
+
 
 I love to make Designs to Working Interfaces. I do create Micro-animations using AfterEffects and 3d models in blender ♥
 
@@ -11,7 +14,10 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 - 🔭 I’m currently working on Remote Jobs 
 - 🌱 I’m currently learning Flutter, Digital Marketing 
 - 📫 How to reach me: satyapavanvanka@gmail.com 
+### Mini Portfolio
 
+<p><a href="https://znap.link/satyapavanvanka"><img width="250" align='center' src="https://app.znaplink.com/themes/altum/assets/images/biolinks/images/image-001.png?1626009514"></a>
+</p>
  ### Streaming Projects ✨
  <p>
   <a href="https://hairsnap.pages.dev"><img width="300" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/hs.png"></img></a>
@@ -20,40 +26,37 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
  
 ### HairSnap 
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.
+Hair Snap is the best place to check out your favourite hairstyle and easy to make your haircut at saloons.Currently it is available nly for Men. For women it is sill in developing stage and it will launch soon ([discover😃](https://hairsnap.pages.dev)).
 
 
  --- 
 
 
 
-<p>
-  <a href="https://alleybott.herokuapp.com"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/ally.png"></a>
+<p><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/ally.png">
 </p>
 
 ### Alley Bot
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
-
+A Chatbot is Useful in this COVID Pandemic. For purchasing medicines or getting prescriptions for a minor medication, hospitals take more charges from the people. So we made a Chatbot called (ALLY) Using some Machine learning methods' with Python Programming Language. People can get free prescription here. we'll Update the Database with Questionaries' and Answerable Medications every time. so it'll answer automatically when the user asks any question ([discover😃](https://alleybot.herokuapp.com)).
 
  --- 
- <p>
-  <a href="https://maskin.pages.dev"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/maskinnew.png"></a>
+ <p><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/maskinnew.png">
 </p>
 
 ### Maskin
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+it is a Ui/Ux E-Commerce Web Page where user can find many types of face masks and its sizings. ([discover😃](https://maskin.pages.dev)).
 
 
  --- 
  <p>
-  <a href="https://notemini.netlify.app"><img width="200" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/note.png"></a>
+  <img width="200" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/note.png">
 </p>
 
 ### Notemini
-
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+It's just a online mini notepad website where user can write down the notes or details and also can download offline
+([discover😃](https://notemini.netlify.app)).
 
 
  --- 
@@ -75,15 +78,9 @@ I write regular blog posts, most of which you will find on my personal website [
 <br/>
                                                                           <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=its-me-satya)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=its-me-satya&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=its-me-satya)  
-
-![GitHub metrics](https://metrics.lecoq.io/its-me-satya)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=its-me-satya)  
-
-![Profile views](https://gpvc.arturio.dev/its-me-satya)  
 
