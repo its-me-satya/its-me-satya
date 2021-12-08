@@ -26,15 +26,16 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 
 
 <br/>
-  
+  <div style="background:#fff;" width="500" height="200">
 <p align=center><a href="https://medium.com/satyapavanvanka">
-  <img align="left" alt="Abhishek's Discord" width="220px" src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame%201.png" />
+  <img align="left" alt="Abhishek's Discord" width="220px" src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame%201.svg" />
 </a><a href="https://www.linkedin.com/in/satya-pavan-vanka-a86657170/">
   <img align="left" alt="Abhishek's Discord" width="220px" src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/maskin.png" />
 </a></p>
 <p><a href="https://dribbble.com/satyapavanvanka">
   <img align="left" alt="Abhishek's Discord" width="220px" src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame%201.png" />
 </a></p>
+<div>
                                                                                                                                        <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=its-me-satya)](https://github.com/ryo-ma/github-profile-trophy)
