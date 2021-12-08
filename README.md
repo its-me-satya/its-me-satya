@@ -45,7 +45,7 @@ I write regular blog posts, most of which you will find on my personal website [
 
  --- 
  <p>
-  <a href="https://notemini.netlify.app"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/note.png"></a>
+  <a href="https://notemini.netlify.app"><img width="200" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/note.png"></a>
 </p>
 
 ### Notemini
