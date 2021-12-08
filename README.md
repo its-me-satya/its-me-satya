@@ -22,7 +22,7 @@ I love to make Designs to Working Interfaces. I do create Micro-animations using
 <a href="https://instagram.com/alphaagram">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
 </a>
-<a href="https://medium.com/satyapavanvanka">
+<a href="https://satyapavanvanka.medium.com/">
   <img align="left" alt="Satya's | Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />
 </a>
 <a href="https://www.linkedin.com/in/satya-pavan-vanka-a86657170/">
@@ -30,9 +30,6 @@ I love to make Designs to Working Interfaces. I do create Micro-animations using
 </a>
 <a href="https://dribbble.com/satyapavanvanka">
   <img align="left" alt="Satya's | Dribbble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
-</a>
-<a href="https://znap.link/satyapavanvanka">
-  <img align="left" alt="Satya's | Dribbble" width="88px" src="https://app.znaplink.com/themes/altum/assets/images/biolinks/images/image-001.png?1626009514" />
 </a>
 <br>
 
@@ -62,7 +59,7 @@ Hair Snap is the best place to check out your favourite hairstyle and easy to ma
 A Chatbot is Useful in this COVID Pandemic. For purchasing medicines or getting prescriptions for a minor medication, hospitals take more charges from the people. So we made a Chatbot called (ALLY) Using some Machine learning methods' with Python Programming Language. People can get free prescription here. we'll Update the Database with Questionaries' and Answerable Medications every time. so it'll answer automatically when the user asks any question ([discover😃](https://alleybot.herokuapp.com)).
 
  
- <p><img width="220" align='right' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/maskinnew.png">
+ <p><img width="220" align='right' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/f5016f0348a14c18157b940130625bff6d26681d/maskin.svg">
 </p>
 
 ### Maskin
