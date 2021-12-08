@@ -12,7 +12,7 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 
  ### Streaming Projects ✨
  <p>
-  <a href="https://hairsnap.pages.dev"><img width="300" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame%201.png"></img></a>
+  <a href="https://hairsnap.pages.dev"><img width="300" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame 5"></img></a>
   
 </p>
  
@@ -35,7 +35,7 @@ I write regular blog posts, most of which you will find on my personal website [
 
  --- 
  <p>
-  <a href="https://maskin.pages.dev"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/maskin.png"></a>
+  <a href="https://maskin.pages.dev"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/maskinnew.png"></a>
 </p>
 
 ### Maskin
@@ -45,7 +45,7 @@ I write regular blog posts, most of which you will find on my personal website [
 
  --- 
  <p>
-  <a href="https://notemini.netlify.app"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame 4.png"></a>
+  <a href="https://notemini.netlify.app"><img width="250" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/note.png"></a>
 </p>
 
 ### Notemini
