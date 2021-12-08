@@ -20,7 +20,7 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.
 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
+[<img src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/discover.png" width="40"/>](https://github.com/user/repository/subscription)
 
  --- 
 
