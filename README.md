@@ -22,7 +22,7 @@ I love to make Designs to Working Interfaces. I do create Micro-animations using
 <a href="https://instagram.com/alphaagram">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
 </a>
-<a href="https://medium.com/satyapavanvanka">
+<a href="https://satyapavanvanka.medium.com/">
   <img align="left" alt="Satya's | Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />
 </a>
 <a href="https://www.linkedin.com/in/satya-pavan-vanka-a86657170/">
