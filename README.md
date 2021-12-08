@@ -31,9 +31,6 @@ I love to make Designs to Working Interfaces. I do create Micro-animations using
 <a href="https://dribbble.com/satyapavanvanka">
   <img align="left" alt="Satya's | Dribbble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
 </a>
-<a href="https://znap.link/satyapavanvanka">
-  <img align="left" alt="Satya's | Dribbble" width="88px" src="https://app.znaplink.com/themes/altum/assets/images/biolinks/images/image-001.png?1626009514" />
-</a>
 <br>
 
  ---
