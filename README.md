@@ -2,14 +2,17 @@
 
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ####  This is Satya Pavan Vanka, I'm a Front-End Enthusiast ⚡ ,
-![ This is Satya, I'm a Front-End Enthusiast ⚡ ,]
 
 ![Profile views](https://gpvc.arturio.dev/its-me-satya)  
 
 
 I love to make Designs to Working Interfaces. I do create Micro-animations using AfterEffects and 3d models in blender ♥
 
-Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop, Illustrator and Tools: Figma
+ ---
+
+## Skills:
+
+ Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop, Illustrator and Tools: Figma
 
 - 🔭 I’m currently working on Remote Jobs 
 - 🌱 I’m currently learning Flutter, Digital Marketing 
@@ -28,6 +31,9 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 <a href="https://dribbble.com/satyapavanvanka">
   <img align="left" alt="Satya's | Dribbble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
 </a>
+<a href="https://znap.link/satyapavanvanka">
+  <img align="left" alt="Satya's | Dribbble" width="88px" src="https://app.znaplink.com/themes/altum/assets/images/biolinks/images/image-001.png?1626009514" />
+</a>
 <br>
 
  ---
@@ -39,7 +45,7 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 
  ## Streaming Projects ✨
  <p>
-  <a href="https://hairsnap.pages.dev"><img width="220" align='left' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/hs.png"></img></a>
+  <a href="https://hairsnap.pages.dev"><img width="220" align='right' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/hs.png"></img></a>
   
 </p>
  
@@ -65,14 +71,14 @@ it is a Ui/Ux E-Commerce Web Page where user can find many types of face masks a
 
 
  <p>
-  <img width="200" align='left' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/note.png">
+  <img width="220" align='right' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/note.png">
 </p>
 
 ### Notemini
 It's just a online mini notepad website where user can write down the notes or details and also can download offline
 ([discover😃](https://notemini.netlify.app)).
 
-
+<br>
 
  --- 
 
