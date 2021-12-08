@@ -12,7 +12,7 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 
  ### Streaming Projects ✨
  <p>
-  <a href="https://hairsnap.pages.dev"><img width="300" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/Frame 5.png"></img></a>
+  <a href="https://hairsnap.pages.dev"><img width="300" align='center' src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/hs.png"></img></a>
   
 </p>
  
