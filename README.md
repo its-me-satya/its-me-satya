@@ -1,6 +1,8 @@
+![](https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/top.gif)
+
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ####  This is Satya Pavan Vanka, I'm a Front-End Enthusiast ⚡ ,
-![ This is Satya, I'm a Front-End Enthusiast ⚡ ,](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+![ This is Satya, I'm a Front-End Enthusiast ⚡ ,]
 
 I love to make Designs to Working Interfaces. I do create Micro-animations using AfterEffects and 3d models in blender ♥
 
@@ -20,7 +22,6 @@ Skills: Java, Python, Front end - Web Dev, Web Design, Blender, Adobe Photoshop,
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.
 
-[<img src="https://raw.githubusercontent.com/its-me-satya/its-me-satya/main/discover.png" width="40"/>](https://github.com/user/repository/subscription)
 
  --- 
 
